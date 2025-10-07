@@ -1,0 +1,10 @@
+Industry,Return,Volatility,E_Score,Region,BI,BIC_per_year,ERI
+Consumer Goods,5.43,7.33,52.62,Asia,65.0,2200.0,60.048
+Energy,2.19,7.65,40.24,Europe,75.0,1600.0,61.096000000000004
+Finance,5.07,6.6,90.53,Middle East,72.5,,79.712
+Healthcare,7.13,7.07,66.7,Oceania,72.5,,70.18
+Manufacturing,4.1,7.38,41.99,Latin America,68.0,1300.0,57.596000000000004
+Retail,4.33,7.08,58.16,Latin America,68.0,1300.0,64.064
+Technology,9.19,6.77,84.56,Africa,72.5,,77.32400000000001
+Transportation,4.27,7.67,34.3,Latin America,68.0,1300.0,54.519999999999996
+Utilities,2.01,7.61,46.66,Oceania,72.5,,62.164
